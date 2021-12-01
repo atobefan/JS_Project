@@ -1,1 +1,1 @@
-# JS_project
+# A website for percussion fun!
